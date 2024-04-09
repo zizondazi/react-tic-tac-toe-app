@@ -8,7 +8,6 @@ function App() {
           <Board />
         </div>
         <div className="game-info">
-          game-info
         </div>
     </div>
   );
